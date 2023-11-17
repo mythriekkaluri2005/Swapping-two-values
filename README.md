@@ -31,7 +31,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Alt text](image-1.png)
+![Alt text](<Screenshot 2023-11-14 032454.png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
